@@ -1,3 +1,5 @@
+# IONIC Tabs+Sidemenu Implimentation
+
 This is an addon starter template for the [Ionic Framework](http://ionicframework.com/).
 
 ## How to use this template
