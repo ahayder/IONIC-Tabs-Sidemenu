@@ -1,2 +1,2 @@
-# IONIC-Tabs-Sidemenu
-IONIC Tabs+Sidemenu Implementation
+# IONIC-Tabs-Sidemenu Implementation
+
