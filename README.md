@@ -10,11 +10,11 @@ To use this, either create a new ionic project using the ionic node.js utility, 
 
 ### With the Ionic tool:
 
-Take the name after `ionic-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Copy the url of the repository user the `ionic start` command like below:
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start myApp tabs
+$ ionic start myApp https://github.com/ahayder/IONIC-Tabs-Sidemenu.git
 ```
 
 Then, to run it, cd into `myApp` and run:
